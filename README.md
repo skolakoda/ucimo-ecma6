@@ -18,3 +18,5 @@ Ovde preuzmi rešenja:
 ```sh
 $ git clone https://github.com/skolakoda/ucimo-ecma6.git
 ```
+
+Srećno mladi istraživaču!
