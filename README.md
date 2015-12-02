@@ -1,7 +1,10 @@
 # ucimo-ecma6
 
-Zadaci i rešenja count-to-6 kursa sa [nodeschool-a](http://nodeschool.io/)
+Zadaci (sa rešenjima) count-to-6 kursa sa [NodeSchool-a](http://nodeschool.io/)
 
+## Instalacija
+
+Prvo instaliraj izvorni kurs
 ```sh
 $ npm install -g count-to-6
 ```
