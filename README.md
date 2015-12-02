@@ -9,12 +9,12 @@ Prvo instaliraj izvorni kurs:
 $ npm install -g count-to-6
 ```
 
-Zatim preuzmi rešenja:
-```sh
-$ git clone https://github.com/skolakoda/ucimo-ecma6.git
-```
-
-Izvorni kurs se nakon instalacije pokreće komandom:
+Zatim ga pokreni komandom:
 ```sh
 $ count-to-6
+```
+
+Ovde preuzmi rešenja:
+```sh
+$ git clone https://github.com/skolakoda/ucimo-ecma6.git
 ```
