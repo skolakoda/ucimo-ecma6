@@ -13,3 +13,8 @@ Zatim preuzmi rešenja:
 ```sh
 $ git clone https://github.com/skolakoda/ucimo-ecma6.git
 ```
+
+Izvorni kurs se nakon instalacije pokreće komandom:
+```sh
+$ count-to-6
+```
