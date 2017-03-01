@@ -1,3 +1,5 @@
+![](ecmascript-6-logo.jpg)
+
 # Učimo ECMAScript 6
 
 Učimo ECMAScript 2015 standard (ili ES6), koji je doneo mnoge nove mogućnosti u svet Javaskripta.
