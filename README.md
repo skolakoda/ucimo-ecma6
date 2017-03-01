@@ -1,23 +1,22 @@
 # Učimo ECMAScript 6
 
-Zadaci (sa rešenjima) [count-to-6](https://github.com/domenic/count-to-6) kursa.
+Učimo ECMAScript 2015 standard (ili ES6), koji je doneo mnoge nove mogućnosti i tektonske promene u svet Javaskripta.
 
-Drugi deo kursa možete naći ovde:
-https://github.com/skolakoda/ucimo-ecmascript6-ii-deo
+Neki primeri su preuzeti iz kurseva [tower-of-babel](https://github.com/yosuke-furukawa/tower-of-babel) i [count-to-6](https://github.com/domenic/count-to-6).
 
-## Instalacija
+## Pokretanje
 
-Prvo instaliraj izvorni kurs i pokreni ga:
+JS fajlove iz ovog repozitorija možeš pokretati na dva načine. Pomoću nodejs-a:
+
 ```
-$ npm install -g count-to-6
-$ count-to-6
+$ node 10-zdravo.js
 ```
 
-Zatim preuzmi rešenja:
+Ili iz browsera, tako što ih uključiš u html fajl:
 ```
-$ git clone https://github.com/skolakoda/ucimo-ecmascript6.git
-$ cd ucimo-ecmascript6
-$ npm install
+<script src="10-zdravo.js"></script>
 ```
+Zatim otvoriš html fajl u browseru i pogledaš konzolu.
+
 
 Srećno mladi istraživaču!
