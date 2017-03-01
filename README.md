@@ -2,7 +2,7 @@
 
 # Učimo ECMAScript 6
 
-Učimo ECMAScript 2015 standard (ili ES6), koji je doneo mnoge nove mogućnosti u svet Javaskripta.
+Učimo ECMAScript 2015 standard (ili ES6), koji je doneo tektonske promene u svet Javaskripta.
 
 Neki primeri su preuzeti iz kurseva [tower-of-babel](https://github.com/yosuke-furukawa/tower-of-babel) i [count-to-6](https://github.com/domenic/count-to-6).
 
