@@ -1,11 +1,11 @@
 /*
-Process the array and output the first letter of words in a row.
-For example, in case of ["Hello", "Arrow", "Function"] should result in "HAF".
+Povezi prva slova svake reci iz niza. Na primer: ["Hello", "Arrow", "Function"] postaje "HAF".
 */
 
-const arr = ["Hello", "Arrow", "Function"];
+const nizReci = ["Hello", "Arrow", "Function"]
 
-const result = arr.map(word => word[0])
-	               .reduce((prev, next) => prev + next);
+const rezultat = nizReci
+	.map(rec => rec[0])
+	.reduce((prethodno, sledece) => prethodno + sledece)
 
-console.log(result);
+console.log(rezultat)
