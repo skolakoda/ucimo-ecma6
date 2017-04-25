@@ -5,16 +5,16 @@ const covek = {
 
   kazi() {
     setImmediate(function() {
-        console.log(this.pozdrav);
-    });
+      console.log(this.pozdrav)
+    })
   },
 
   kazi2() {
     setImmediate(() => {
-        console.log(this.pozdrav);
-    });
+      console.log(this.pozdrav)
+    })
   }
-};
+}
 
-covek.kazi();
-covek.kazi2();
+covek.kazi()
+covek.kazi2()
